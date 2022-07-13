@@ -1,4 +1,4 @@
-# Jan Egil Ring's dotfiles
+# Ondrej Kracmnar's dotfiles
 
 The installation will:
 
