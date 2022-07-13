@@ -1,4 +1,4 @@
-# Ondrej Kracmnar's dotfiles
+# Ondrej Kracmar's dotfiles
 
 The installation will:
 
