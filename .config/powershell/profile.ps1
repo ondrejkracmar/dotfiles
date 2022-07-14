@@ -56,13 +56,13 @@ New-Alias -Name 'Set-PoshContext' -Value 'Set-EnvVar' -Scope Global
 
 if (Get-Command -Name 'oh-my-posh' -ErrorAction SilentlyContinue) {
 
-    if (Test-Path -Path "$WorkspacePowerShellFolder/themes/jan.json") {
+    if (Test-Path -Path "$WorkspacePowerShellFolder/themes/default.omp") {
 
-        oh-my-posh init pwsh --config "$WorkspacePowerShellFolder/themes/jan.json" | Invoke-Expression
+        oh-my-posh init pwsh --config "$WorkspacePowerShellFolder/themes/default.omp" | Invoke-Expression
 
     } else {
 
-        oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/jandedobbeleer.omp.json'
+        oh-my-posh init pwsh --config 'oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\default.omp.json" | Invoke-Expression'
 
     }
 }

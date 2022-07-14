@@ -34,4 +34,6 @@
     'tftools'                                    = 'latest'
     'ImportExcel'                                = 'latest'
     'PSReadLine'                                 = 'latest'
+    'PSFramework'                                = 'latest'
+    'RestConnect'                                = 'latest'
 }
