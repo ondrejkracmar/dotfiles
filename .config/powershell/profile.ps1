@@ -20,7 +20,7 @@ if ([System.IO.File]::Exists($latestVersionFile)) {
     if ([version]$latestVersion -gt $currentVersion) {
         Write-Verbose "Your version: $currentVersion" -Verbose
         Write-Verbose "New version: $latestVersion" -Verbose
-        $choice = Read-Host -Prompt "Found newer profile, install? (Y)"Y
+        $choice = Read-Host -Prompt "Found newer profile, install? (Y)"
         if ($choice -eq "Y" -or $choice -eq "") {
             try {
                 $gist = Invoke-RestMethod $gistUrl -ErrorAction Stop
