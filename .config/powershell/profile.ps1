@@ -1,6 +1,6 @@
 #Requires -Version 7
 
-# Version 1.0.4
+# Version 1.0.0
 
 # Cross-platform PowerShell profile based on https://devblogs.microsoft.com/powershell/optimizing-your-profile/
 
