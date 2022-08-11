@@ -36,4 +36,7 @@
     'PSReadLine'                                 = 'latest'
     'PSFramework'                                = 'latest'
     'RestConnect'                                = 'latest'
+    'PSServiceBus'                               = 'latest'
+    'PowerShellProTools'                         = 'latest'
+    'PowerShellProTools.VSCode'                  = 'latest'
 }
