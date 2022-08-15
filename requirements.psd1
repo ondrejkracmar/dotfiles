@@ -38,5 +38,4 @@
     'RestConnect'                                = 'latest'
     'PSServiceBus'                               = 'latest'
     'PowerShellProTools'                         = 'latest'
-    'PowerShellProTools.VSCode'                  = 'latest'
 }
