@@ -1,4 +1,4 @@
-@{
+﻿@{
     PSDependOptions                              = @{
         Target     = 'CurrentUser'
         Parameters = @{
@@ -38,4 +38,5 @@
     'RestConnect'                                = 'latest'
     'PSServiceBus'                               = 'latest'
     'PowerShellProTools'                         = 'latest'
+    'PSRule.Rules.Azure'                         = 'latest'
 }

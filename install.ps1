@@ -1,4 +1,4 @@
-$configPath = "~/.config"
+﻿$configPath = "~/.config"
 
 if (Test-Path $configPath) {
     "Config path $configPath exists" >> ~\dotfiles.log
