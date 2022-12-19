@@ -23,6 +23,8 @@
     'Az.Support'                                 = '1.0.0'
     'Az.Sql'                                     = '3.7.1'
     'AzTable'                                    = 'latest'
+    'AzAuth'                                     = 'latest'
+    'AzBobbyTables'                              = 'latest'
     'JaZ.PIM'                                    = 'latest'
     'Microsoft.Graph.DeviceManagement.Enrolment' = '1.9.6'
     'Microsoft.Graph.Authentication'             = '1.9.6'
