@@ -42,4 +42,5 @@
     'PSServiceBus'                               = 'latest'
     'PowerShellProTools'                         = 'latest'
     'PSRule.Rules.Azure'                         = 'latest'
+    'platyPS'                                    = 'latest'
 }
