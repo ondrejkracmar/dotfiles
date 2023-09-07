@@ -32,6 +32,8 @@
     'Microsoft.PowerShell.SecretStore'           = 'latest'
     'Microsoft.PowerShell.UnixCompleters'        = 'latest'
     'Microsoft.PowerShell.ConsoleGuiTools'       = 'latest'
+    'Microsoft.Powershell.Security'              = 'latest'
+    'Microsoft.Powershell.SecretStore'           = 'latest'
     'subnet'                                     = 'latest'
     'Terminal-Icons'                             = 'latest'
     'tftools'                                    = 'latest'
