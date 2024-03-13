@@ -30,7 +30,7 @@
     'Microsoft.Graph.Authentication'             = '1.9.6'
     'Microsoft.PowerShell.SecretManagement'      = 'latest'
     'Microsoft.PowerShell.SecretStore'           = 'latest'
-    'Microsoft.PowerShell.UnixCompleters'        = 'latest'
+    #'Microsoft.PowerShell.UnixCompleters'        = 'latest'
     'Microsoft.PowerShell.ConsoleGuiTools'       = 'latest'
     'Microsoft.Powershell.Security'              = 'latest'
     'Microsoft.Powershell.SecretStore'           = 'latest'
