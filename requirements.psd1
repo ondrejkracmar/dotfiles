@@ -39,6 +39,7 @@
     'PSReadLine'                                 = 'latest'
     'PSFramework'                                = 'latest'
     'RestConnect'                                = 'latest'
+    'EntraAuth'                                  = 'latest'
     'PSServiceBus'                               = 'latest'
     'PowerShellProTools'                         = 'latest'
     'PSRule.Rules.Azure'                         = 'latest'
